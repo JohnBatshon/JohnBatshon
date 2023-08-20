@@ -30,6 +30,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
+  - [Python Script: macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>:book: Certifications :book:</h2>
