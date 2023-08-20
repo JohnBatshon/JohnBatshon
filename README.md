@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Microsoft Azure Cloud Detection Lab Project</b>
+  - [Write Up](https://medium.com/@john.batshon/microsoft-azure-cloud-detection-lab-project-f2f3d60ba067)
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
