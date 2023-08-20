@@ -13,11 +13,11 @@
   - IoC Proficiency: Mastered identifying Indicators of Compromise (IoCs) such as file properties, hashes, and text strings.
   - Tool Integration: Integrated YARA with diverse security tools and applied rules across multiple platforms.
 - <b>Cybersecurity Detection & Monitoring Home Lab</b>
-  - [Data 1](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data 2](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data 3](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data 4](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data 5](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Data 1
+  - Data 2
+  - Data 3
+  - Data 4
+  - Data 5
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
