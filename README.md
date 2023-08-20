@@ -7,8 +7,11 @@
   - Covered steps such as creating an Azure Resource Group, deploying a Windows 10 Virtual Machine, setting up Log Analytics, and deploying Microsoft Sentinel Cloud Native Security Information and Event Manager (SIEM).
   - Generated event data and configured data collection rules for processing in Microsoft Sentinel.
   - Demonstrated skills in Azure management, security configuration, Kusto Query Language (KQL)
-- <b>YARA Threat Detection Lab</b>
-  - [Write Up](https://medium.com/@john.batshon/yara-threat-detection-lab-ab182962f0cc)
+- <b>[YARA Threat Detection Lab](https://medium.com/@john.batshon/yara-threat-detection-lab-ab182962f0cc)</b>
+  - YARA Proficiency: Utilized YARA, an open-source malware identification tool, to classify malware by creating custom rules.
+  - Rule Crafting: Developed YARA rules to detect patterns in file content, text strings, and attributes.
+  - IoC Proficiency: Mastered identifying Indicators of Compromise (IoCs) such as file properties, hashes, and text strings.
+  - Tool Integration: Integrated YARA with diverse security tools and applied rules across multiple platforms.
 - <b>Cybersecurity Detection & Monitoring Home Lab</b>
   - [Data 1](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Data 2](https://github.com/joshmadakor1/Algorithms-Practice)
