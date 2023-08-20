@@ -1,4 +1,4 @@
-<h1>Hello, I'm John! <br/><a href="https://github.com/JohnBatshon">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/JohnBatshon/">Information Technology Professional</a>, <a href="https://www.youtube.com/">TBD</a></h1>
+<h1>Hello, I'm John! <br/><a href="https://github.com/JohnBatshon">Cybersecurity Analyst</a> | <a href="https://www.linkedin.com/in/JohnBatshon/">Information Technology Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
