@@ -32,7 +32,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 :book: Certifications</h2>
+<h2>:book: Certifications :book:</h2>
 
 - [CompTIA CySA+](https://www.credly.com/badges/1f42b74b-c72a-41e6-9878-b637b12341d8)
 - [CompTIA Security+](https://www.credly.com/badges/8fd92de5-d912-4180-9518-fe1362e748fa)
