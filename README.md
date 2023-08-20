@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Microsoft Azure Cloud Detection Lab Project</b>
-  - [Write Up](https://medium.com/@john.batshon/microsoft-azure-cloud-detection-lab-project-f2f3d60ba067)
+- <b>[Microsoft Azure Cloud Detection Lab Project](https://medium.com/@john.batshon/microsoft-azure-cloud-detection-lab-project-f2f3d60ba067)</b>
+  - Documented process of building an Azure Cloud Detection Lab
+  - Covered steps such as creating an Azure Resource Group, deploying a Windows 10 Virtual Machine, setting up Log Analytics, and deploying Microsoft Sentinel Cloud Native Security Information and Event Manager (SIEM).
+  - Generated event data and configured data collection rules for processing in Microsoft Sentinel.
+  - Demonstrated skills in Azure management, security configuration, Kusto Query Language (KQL)
 - <b>YARA Threat Detection Lab</b>
   - [Write Up](https://medium.com/@john.batshon/yara-threat-detection-lab-ab182962f0cc)
 - <b>Cybersecurity Detection & Monitoring Home Lab</b>
