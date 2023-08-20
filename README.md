@@ -1,6 +1,6 @@
 <h1>Hello, I'm John! <br/><a href="https://github.com/JohnBatshon">Cybersecurity Analyst</a> | <a href="https://www.linkedin.com/in/JohnBatshon/">Information Technology Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>:pencil: Cybersecurity Projects :pencil:</h2>
 
 - <b>[Microsoft Azure Cloud Detection Lab Project](https://medium.com/@john.batshon/microsoft-azure-cloud-detection-lab-project-f2f3d60ba067)</b>
   - Documented process of building an Azure Cloud Detection Lab
