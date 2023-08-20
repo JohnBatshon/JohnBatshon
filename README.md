@@ -22,6 +22,14 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>📺 Certifications</h2>
+
+- [CompTIA CySA+](https://www.credly.com/badges/1f42b74b-c72a-41e6-9878-b637b12341d8)
+- [CompTIA Security+](https://www.credly.com/badges/8fd92de5-d912-4180-9518-fe1362e748fa)
+- [CompTIA Network+](https://www.credly.com/badges/14fcb912-7d01-4eb3-ac4a-fd23ef7ad4ab)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/5be89e4b-999d-4bb2-b9cf-2bd066f01d70)
+- [ISC2: Certified in Cybersecurity](https://www.credly.com/badges/2157be12-0782-472e-ba02-0477d0e1acc3)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
