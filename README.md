@@ -40,6 +40,7 @@
 - [CompTIA Network+](https://www.credly.com/badges/14fcb912-7d01-4eb3-ac4a-fd23ef7ad4ab)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/5be89e4b-999d-4bb2-b9cf-2bd066f01d70)
 - [ISC2: Certified in Cybersecurity](https://www.credly.com/badges/2157be12-0782-472e-ba02-0477d0e1acc3)
+- Splunk Core Certified Power User (In Progress)
 
 <h2>📺 Popular YouTube Videos</h2>
 
