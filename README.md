@@ -24,8 +24,10 @@
 - <b>Python</b>
   - [Python Script: macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- - <b>[Microsoft Azure Cloud Detection Lab Project](https://medium.com/@john.batshon/microsoft-azure-cloud-detection-lab-project-f2f3d60ba067)</b>
-  - Documented process of building an Azure Cloud Detection Lab
+- <b>Microsoft Azure RDP Honeypot Project</b>
+  - Data 1
+  - Data 2
+  - Data 3
   
 
 <h2>:book: Certifications :book:</h2>
