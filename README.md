@@ -13,11 +13,9 @@
   - IoC Proficiency: Mastered identifying Indicators of Compromise (IoCs) such as file properties, hashes, and text strings.
   - Tool Integration: Integrated YARA with diverse security tools and applied rules across multiple platforms.
 - <b>Cybersecurity Detection & Monitoring Home Lab</b>
-  - Data 1
-  - Data 2
-  - Data 3
-  - Data 4
-  - Data 5
+  - Designed a virtualized home lab network to test vulnerabilities and practice threat detection.
+  - Utilized PFSense, Splunk, Kali Linux, Security Onion, and Active Directory to simulate a small enterprise network.
+  - Simulated offensive and defensive tactics for adversary emulation and incident response practice.
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
