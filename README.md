@@ -24,6 +24,9 @@
  
 - <b>:snake: Python :snake:</b>
   - [macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
+
+- <b>:hash::heavy_exclamation_mark: Bash :hash::heavy_exclamation_mark:</b>
+  - [macOS Set Computer Name](https://github.com/JohnBatshon/Bash-macOS-Set-Computer-Name)
  
 - <b>[:honey_pot: Microsoft Azure RDP Honeypot Project :honey_pot:](https://medium.com/@john.batshon/microsoft-azure-rdp-honeypot-project-5e338bdc62ee)</b>
   - Created a Honeypot on Azure: Windows 11 VM with exposed RDP. Utilized Log Analytics, Microsoft Sentinel, Windows Defender for Cloud to capture and map attacks.
