@@ -25,7 +25,7 @@
 - <b>:snake: Python :snake:</b>
   - [macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
 
-- <b>:hash: Bash :heavy_exclamation_mark:</b>
+- <b>:hash: Bash :hash:</b>
   - [macOS Set Computer Name](https://github.com/JohnBatshon/Bash-macOS-Set-Computer-Name)
  
 - <b>[:honey_pot: Microsoft Azure RDP Honeypot Project :honey_pot:](https://medium.com/@john.batshon/microsoft-azure-rdp-honeypot-project-5e338bdc62ee)</b>
