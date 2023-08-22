@@ -24,7 +24,7 @@
 - <b>Python</b>
   - [Python Script: macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Microsoft Azure RDP Honeypot Project</b>
+- <b>[Microsoft Azure RDP Honeypot Project](https://medium.com/@john.batshon/microsoft-azure-rdp-honeypot-project-5e338bdc62ee)</b>
   - Data 1
   - Data 2
   - Data 3
