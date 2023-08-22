@@ -7,19 +7,24 @@
   - Covered steps such as creating an Azure Resource Group, deploying a Windows 10 Virtual Machine, setting up Log Analytics, and deploying Microsoft Sentinel Cloud Native Security Information and Event Manager (SIEM).
   - Generated event data and configured data collection rules for processing in Microsoft Sentinel.
   - Demonstrated skills in Azure management, security configuration, Kusto Query Language (KQL)
+ 
 - <b>[YARA Threat Detection Lab](https://medium.com/@john.batshon/yara-threat-detection-lab-ab182962f0cc)</b>
   - YARA Proficiency: Utilized YARA, an open-source malware identification tool, to classify malware by creating custom rules.
   - Rule Crafting: Developed YARA rules to detect patterns in file content, text strings, and attributes.
   - IoC Proficiency: Mastered identifying Indicators of Compromise (IoCs) such as file properties, hashes, and text strings.
   - Tool Integration: Integrated YARA with diverse security tools and applied rules across multiple platforms.
+ 
 - <b>Cybersecurity Detection & Monitoring Home Lab</b>
   - Designed a virtualized home lab network to test vulnerabilities and practice threat detection.
   - Utilized PFSense, Splunk, Kali Linux, Security Onion, and Active Directory to simulate a small enterprise network.
   - Simulated offensive and defensive tactics for adversary emulation and incident response practice.
+ 
 - <b>:computer: PowerShell :computer:</b>
   - [Active Directory Bulk User Creation](https://github.com/JohnBatshon/PowerShell-AD-User-Importer)
+ 
 - <b>:snake: Python :snake:</b>
   - [Python Script: macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
+ 
 - <b>[:honey_pot: Microsoft Azure RDP Honeypot Project :honey_pot:](https://medium.com/@john.batshon/microsoft-azure-rdp-honeypot-project-5e338bdc62ee)</b>
   - Created a Honeypot on Azure: Windows 11 VM with exposed RDP. Utilized Log Analytics, Microsoft Sentinel, Windows Defender for Cloud to capture and map attacks.
   - Tasks: Set up Azure Account, Resource Group, Windows 11 VM, Log Analytics Workspace, Defender for Cloud, and used Microsoft Sentinel for SIEM.
