@@ -23,7 +23,7 @@
   - [PowerShell-AD-User-Importer](https://github.com/JohnBatshon/PowerShell-AD-User-Importer)
  
 - <b>:snake: Python :snake:</b>
-  - [Python Script: macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
+  - [macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
  
 - <b>[:honey_pot: Microsoft Azure RDP Honeypot Project :honey_pot:](https://medium.com/@john.batshon/microsoft-azure-rdp-honeypot-project-5e338bdc62ee)</b>
   - Created a Honeypot on Azure: Windows 11 VM with exposed RDP. Utilized Log Analytics, Microsoft Sentinel, Windows Defender for Cloud to capture and map attacks.
