@@ -20,7 +20,7 @@
   - Simulated offensive and defensive tactics for adversary emulation and incident response practice.
  
 - <b>:computer: PowerShell :computer:</b>
-  - [Active Directory Bulk User Creation](https://github.com/JohnBatshon/PowerShell-AD-User-Importer)
+  - [PowerShell-AD-User-Importer](https://github.com/JohnBatshon/PowerShell-AD-User-Importer)
  
 - <b>:snake: Python :snake:</b>
   - [Python Script: macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
