@@ -2,13 +2,13 @@
 
 <h2>:blue_book: Cybersecurity Projects :closed_book:</h2>
 
-- <b>[:rotating_light: Microsoft Azure Cloud Detection Lab Project :rotating_light:](https://medium.com/@john.batshon/microsoft-azure-cloud-detection-lab-project-f2f3d60ba067)</b>
+- <b>[:rotating_light: Microsoft Azure Cloud Detection Project :rotating_light:](https://medium.com/@john.batshon/microsoft-azure-cloud-detection-lab-project-f2f3d60ba067)</b>
   - Documented process of building an Azure Cloud Detection Lab
   - Covered steps such as creating an Azure Resource Group, deploying a Windows 10 Virtual Machine, setting up Log Analytics, and deploying Microsoft Sentinel Cloud Native Security Information and Event Manager (SIEM).
   - Generated event data and configured data collection rules for processing in Microsoft Sentinel.
   - Demonstrated skills in Azure management, security configuration, Kusto Query Language (KQL)
  
-- <b>[:mag: YARA Threat Detection Lab :mag:](https://medium.com/@john.batshon/yara-threat-detection-lab-ab182962f0cc)</b>
+- <b>[:mag: YARA Threat Detection Project :mag:](https://medium.com/@john.batshon/yara-threat-detection-lab-ab182962f0cc)</b>
   - YARA Proficiency: Utilized YARA, an open-source malware identification tool, to classify malware by creating custom rules.
   - Rule Crafting: Developed YARA rules to detect patterns in file content, text strings, and attributes.
   - IoC Proficiency: Mastered identifying Indicators of Compromise (IoCs) such as file properties, hashes, and text strings.
