@@ -43,7 +43,7 @@
 
 - Under Construction
 
-<h2>:book: Connect :book:</h2>
+<h2>:iphone: Connect :iphone:</h2>
 
 - [Linkedin](https://www.linkedin.com/in/johnbatshon/)
 
