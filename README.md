@@ -2,19 +2,19 @@
 
 <h2>:pencil: Cybersecurity Projects :pencil:</h2>
 
-- <b>[Microsoft Azure Cloud Detection Lab Project](https://medium.com/@john.batshon/microsoft-azure-cloud-detection-lab-project-f2f3d60ba067)</b>
+- <b>[:rotating_light: Microsoft Azure Cloud Detection Lab Project :rotating_light:](https://medium.com/@john.batshon/microsoft-azure-cloud-detection-lab-project-f2f3d60ba067)</b>
   - Documented process of building an Azure Cloud Detection Lab
   - Covered steps such as creating an Azure Resource Group, deploying a Windows 10 Virtual Machine, setting up Log Analytics, and deploying Microsoft Sentinel Cloud Native Security Information and Event Manager (SIEM).
   - Generated event data and configured data collection rules for processing in Microsoft Sentinel.
   - Demonstrated skills in Azure management, security configuration, Kusto Query Language (KQL)
  
-- <b>[YARA Threat Detection Lab](https://medium.com/@john.batshon/yara-threat-detection-lab-ab182962f0cc)</b>
+- <b>[:mag: YARA Threat Detection Lab :mag:](https://medium.com/@john.batshon/yara-threat-detection-lab-ab182962f0cc)</b>
   - YARA Proficiency: Utilized YARA, an open-source malware identification tool, to classify malware by creating custom rules.
   - Rule Crafting: Developed YARA rules to detect patterns in file content, text strings, and attributes.
   - IoC Proficiency: Mastered identifying Indicators of Compromise (IoCs) such as file properties, hashes, and text strings.
   - Tool Integration: Integrated YARA with diverse security tools and applied rules across multiple platforms.
  
-- <b>Cybersecurity Detection & Monitoring Home Lab</b>
+- <b>:closed_lock_with_key: Cybersecurity Detection & Monitoring Home Lab :closed_lock_with_key:</b>
   - Designed a virtualized home lab network to test vulnerabilities and practice threat detection.
   - Utilized PFSense, Splunk, Kali Linux, Security Onion, and Active Directory to simulate a small enterprise network.
   - Simulated offensive and defensive tactics for adversary emulation and incident response practice.
@@ -42,7 +42,7 @@
 
 <h2>📺 YouTube 📺</h2>
 
-- Under Construction
+- :construction: Under Construction :construction:
 
 <h2>:iphone: Let's Connect :iphone:</h2>
 
