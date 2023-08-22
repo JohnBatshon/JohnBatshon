@@ -16,7 +16,7 @@
   - Designed a virtualized home lab network to test vulnerabilities and practice threat detection.
   - Utilized PFSense, Splunk, Kali Linux, Security Onion, and Active Directory to simulate a small enterprise network.
   - Simulated offensive and defensive tactics for adversary emulation and incident response practice.
-- <b>PowerShell</b>
+- <b>:computer: PowerShell :computer:</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/JohnBatshon/PowerShell-AD-User-Importer)
