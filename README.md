@@ -21,7 +21,7 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/JohnBatshon/PowerShell-AD-User-Importer)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Python</b>
+- <b>:snake: Python :snake:</b>
   - [Python Script: macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>[Microsoft Azure RDP Honeypot Project](https://medium.com/@john.batshon/microsoft-azure-rdp-honeypot-project-5e338bdc62ee)</b>
