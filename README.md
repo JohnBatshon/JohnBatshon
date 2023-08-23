@@ -21,6 +21,7 @@
  
 - <b>:computer: PowerShell :computer:</b>
   - [PowerShell-AD-User-Importer](https://github.com/JohnBatshon/PowerShell-AD-User-Importer)
+  - [PowerShell-ADGroup-BulkUser-Add]()
  
 - <b>:snake: Python :snake:</b>
   - [macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
