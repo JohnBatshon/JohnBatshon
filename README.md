@@ -25,6 +25,7 @@
  
 - <b>:snake: Python :snake:</b>
   - [macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
+  - [Python Basics: TryHackMe](https://github.com/JohnBatshon/Python-Basics-TryHackMe)
 
 - <b>:hash: Bash :hash:</b>
   - [macOS Set Computer Name](https://github.com/JohnBatshon/Bash-macOS-Set-Computer-Name)
