@@ -52,5 +52,3 @@
 <h2>:iphone: Let's Connect :iphone:</h2>
 
 - [Linkedin](https://www.linkedin.com/in/johnbatshon/)
-
-
