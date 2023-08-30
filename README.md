@@ -13,6 +13,11 @@
   - Rule Crafting: Developed YARA rules to detect patterns in file content, text strings, and attributes.
   - IoC Proficiency: Mastered identifying Indicators of Compromise (IoCs) such as file properties, hashes, and text strings.
   - Tool Integration: Integrated YARA with diverse security tools and applied rules across multiple platforms.
+
+- <b>[:honey_pot: Microsoft Azure RDP Honeypot Project :honey_pot:](https://medium.com/@john.batshon/microsoft-azure-rdp-honeypot-project-5e338bdc62ee)</b>
+  - Created a Honeypot on Azure: Windows 11 VM with exposed RDP. Utilized Log Analytics, Microsoft Sentinel, Windows Defender for Cloud to capture and map attacks.
+  - Tasks: Set up Azure Account, Resource Group, Windows 11 VM, Log Analytics Workspace, Defender for Cloud, and used Microsoft Sentinel for SIEM.
+  - Integrated IPGeoLocation, enabled PowerShell scripts, established custom log collection for monitoring attacks and displaying origins on a live map.
  
 - <b>:closed_lock_with_key: Cybersecurity Detection & Monitoring Home Lab :closed_lock_with_key:</b>
   - Designed a virtualized home lab network to test vulnerabilities and practice threat detection.
@@ -31,10 +36,6 @@
 - <b>:hash: Bash :hash:</b>
   - [macOS Set Computer Name](https://github.com/JohnBatshon/Bash-macOS-Set-Computer-Name)
  
-- <b>[:honey_pot: Microsoft Azure RDP Honeypot Project :honey_pot:](https://medium.com/@john.batshon/microsoft-azure-rdp-honeypot-project-5e338bdc62ee)</b>
-  - Created a Honeypot on Azure: Windows 11 VM with exposed RDP. Utilized Log Analytics, Microsoft Sentinel, Windows Defender for Cloud to capture and map attacks.
-  - Tasks: Set up Azure Account, Resource Group, Windows 11 VM, Log Analytics Workspace, Defender for Cloud, and used Microsoft Sentinel for SIEM.
-  - Integrated IPGeoLocation, enabled PowerShell scripts, established custom log collection for monitoring attacks and displaying origins on a live map.
   
 
 <h2>:book: Certifications :book:</h2>
