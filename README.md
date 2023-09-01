@@ -32,6 +32,7 @@
   - [macOS Clear all DMG Files from Downloads Folder](https://github.com/JohnBatshon/clear-dmg-files-downloads)
   - [Python Basics THM](https://github.com/JohnBatshon/Python-Basics-TryHackMe)
   - [Python for Pentesters THM](https://github.com/JohnBatshon/Python-for-PenTesters-THM)
+  - [Python 101 for Hackers](https://github.com/JohnBatshon/Python-101-For-Hackers)
 
 - <b>:hash: Bash :hash:</b>
   - [macOS Set Computer Name](https://github.com/JohnBatshon/Bash-macOS-Set-Computer-Name)
