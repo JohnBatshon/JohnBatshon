@@ -52,6 +52,8 @@
 <h2>📺 YouTube 📺</h2>
 
 - :construction: Under Construction :construction:
+- [Main Channel](https://www.youtube.com/@JohnBatshon)
+- [Brute Force SSH Login Script](https://youtu.be/XCmBGClGVog?si=23XSFhv40IrvgSnr)
 
 <h2>:iphone: Let's Connect :iphone:</h2>
 
