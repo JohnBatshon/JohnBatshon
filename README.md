@@ -50,10 +50,6 @@
 - [ISC2: Certified in Cybersecurity](https://www.credly.com/badges/2157be12-0782-472e-ba02-0477d0e1acc3)
 - Splunk Core Certified Power User (In Progress)
 
-<h2>📺 YouTube 📺</h2>
-
-- [Main Channel](https://www.youtube.com/@JohnBatshon)
-- [Brute Force SSH Login Script](https://youtu.be/XCmBGClGVog?si=23XSFhv40IrvgSnr)
 
 <h2>:iphone: Let's Connect :iphone:</h2>
 
