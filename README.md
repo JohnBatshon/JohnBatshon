@@ -54,7 +54,6 @@
 
 - [Main Channel](https://www.youtube.com/@JohnBatshon)
 - [Brute Force SSH Login Script](https://youtu.be/XCmBGClGVog?si=23XSFhv40IrvgSnr)
-- [SHA256 Password Cracking Tool](https://youtu.be/76e0xclOxRY)
 
 <h2>:iphone: Let's Connect :iphone:</h2>
 
