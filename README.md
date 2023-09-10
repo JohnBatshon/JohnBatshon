@@ -41,6 +41,7 @@
 
 - <b>:hash: Bash :hash:</b>
   - [macOS Set Computer Name](https://github.com/JohnBatshon/Bash-macOS-Set-Computer-Name)
+  - [IP Sweeper Script](https://github.com/JohnBatshon/IP-Sweeper)
   - [Bash Scripting Basics](https://github.com/JohnBatshon/Bash-Scripting-Basics)
  
   
